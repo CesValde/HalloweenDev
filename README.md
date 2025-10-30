@@ -1,4 +1,4 @@
-# 🧟‍♂️ First challenge
+# 🧟‍♂️ First challenge - codePossession.js
 
 Regan has been possessed and now speaks in a strange language 😱. Father Karras has discovered that when Regan is possessed, she completely reverses the words she says, but keeps the order of the phrases.
 
@@ -28,4 +28,3 @@ Words may contain uppercase and lowercase letters, and they should be preserved:
 const message = 'dooG secitcarP'
 translatePossessed(message) // "Good Practices"
 ```
-
