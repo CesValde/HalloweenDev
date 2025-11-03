@@ -201,6 +201,8 @@ Keep in mind that the list of numbers can be very long for a linear search.
 
 # 🧩 Challenge 5: I want to play a game
 
+### playGame.js
+
 **Jigsaw**: "Hello, I want to play a game…"
 
 You have a combination lock with 4 wheels. Each wheel shows a digit from 0 to 9. The lock currently shows a code, but you need to change it to another code.
@@ -263,6 +265,8 @@ Remember… your life is on the line. Don't make a mistake!
 ---
 
 # 🤡 Challenge 6: The chaos
+
+### theChaos.js
 
 Art the Clown 🤡 has captured some victims and seated them in a circle 🎪, numbered from 0 to `N-1`, where `N` is the number of victims.
 
